@@ -1,7 +1,7 @@
 # .NET Conf Recap - Windows
-Presentation for the [Dot Net North](https://www.meetup.com/DotNetNorth) 'Microsoft Ignite After Party / .NET Conf Recap' event in November 2022. An overview of what's new for Windows Developers in .NET 7
+Presentation for the [Dot Net North](https://www.meetup.com/DotNetNorth) 'Microsoft Ignite After Party / .NET Conf Recap' event in November 2022. An overview of what's new for Windows Developers in .NET 7 .[Meetup listing](https://www.meetup.com/dotnetnorth/events/288475312/).
 
-[Meetup listing](https://www.meetup.com/dotnetnorth/events/288475312/).
+[Presentation Link](presentation/2022-11-22-Mike-Irving-Windows.pptx)
 
 ![.NET Conf](.NETConf.jpg)
 
